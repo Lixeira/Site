@@ -4,6 +4,7 @@ h1{
     color: #9370DB;
     margin-bottom: 40px;
     font-size: 34px;
+    display: block;
 }
 .click-me{
     font-family: roboto;

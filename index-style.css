@@ -18,6 +18,12 @@ h1{
     display: block;
     text-align: center;
     margin-bottom: 50px;
+    transition: opcity .25s;
+}
+.click-me:hover{
+    opacity: .7;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.35);
+
 }
 .cat-moon{
     width: auto;

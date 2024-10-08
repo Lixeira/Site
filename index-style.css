@@ -3,6 +3,7 @@ h1{
     text-align: center;
     color: #9370DB;
     margin-bottom: 40px;
+    font-size: 34px;
 }
 .click-me{
     font-family: roboto;
@@ -34,6 +35,6 @@ h1{
     margin-right: auto;
     object-fit: cover;
     border-radius: 25px;
-    height: 500px;
-    width: 400px;
+    height: 400px;
+    width: 250px;
 }

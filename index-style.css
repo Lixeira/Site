@@ -41,7 +41,10 @@ h1{
     width: 250px;
 }
 body{
-    background: url(https://raw.githubusercontent.com/Lixeira/Site/refs/heads/main/img/cat-moon.jpg);
-    background-size: 100%;
+    background-image: url(/img/cat-moon.jpg);
+    background-size: cover;
     background-position: center; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
 }

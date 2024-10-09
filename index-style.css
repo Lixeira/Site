@@ -20,7 +20,7 @@ h1{
     border-radius: 25px;
     display: block;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     transition: opcity .25s;
     margin-left: auto;
     margin-right: auto;
@@ -41,7 +41,7 @@ h1{
     width: 250px;
 }
 body{
-    background-image: url('/img/cat-moon.jpg');
+    background-image: url("../img/cat-moon.jpg");
     background-size: cover;
     background-position: center; 
     background-attachment: fixed;
